@@ -1,2 +1,19 @@
-# java-ai-chatbot
-Java-based AI chatbot using rule-based responses and OOP concepts for interactive communication.
+
+# Java AI ChatBot
+
+A simple Java-based chatbot for interactive communication.
+
+## Features
+- Rule-based responses
+- Interactive console chat
+- OOP implementation
+- User input handling
+
+## Technologies Used
+- Java
+- OOP Concepts
+- Scanner Class
+
+## Output
+
+![Output](output.png)
